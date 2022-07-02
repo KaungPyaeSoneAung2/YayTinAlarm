@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AAA water pate</string>
+    <string name="zero">00:00</string>
+    <string name="yaypate">ရေပိတ်ကြမယ်</string>
+    <string name="first">15 sec</string>
+    <string name="second">10 min</string>
+    <string name="third">13 min</string>
+    <string name="time">အချိန်</string>
+    <string name="Stop">အသံရပ်</string>
+</resources>
